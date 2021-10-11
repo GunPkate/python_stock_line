@@ -8,5 +8,6 @@ Use python to scrape twitter and automatically update by task scheduler(Window)
 
 https://youtu.be/5VygT6yfKLE
 
-Full Explaination
+Full Explaination.
+
 https://youtu.be/IR494nyG0l0
